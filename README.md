@@ -6,3 +6,25 @@ Front-end da aplicação da aplicação GoBarber - Um gerenciamento de reserva d
 
 <img src="prev/prev01.png">
 </br>
+
+<img src="prev/prev02.png">
+</br>
+
+<img src="prev/prev03.png">
+</br>
+
+<img src="prev/prev04.png">
+</br>
+
+<img src="prev/prev05.png">
+</br>
+
+<img src="prev/prev06.png">
+</br>
+
+<img src="prev/prev07.png">
+</br>
+
+<img src="prev/prev08.png">
+</br>
+
